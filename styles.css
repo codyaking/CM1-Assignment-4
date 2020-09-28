@@ -1,0 +1,22 @@
+<style>
+/* Style the body */
+body {
+  font-family: Arial;
+  margin: 0;
+}
+
+/* Header/Logo Title */
+.header {
+  padding: 250px;
+  text-align: center;
+  background-image: url("Banner.png") ;
+  background-repeat: no-repeat;
+background-size: 100% 100%;
+  color: white;
+  font-size: 40px;
+  
+}
+
+/* Page Content */
+.content {padding:20px;}
+</style>
